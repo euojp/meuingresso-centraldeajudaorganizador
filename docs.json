@@ -66,7 +66,7 @@
             "icon": "ticket"
           },
           {
-            "group": "Campos personalizados e formulários",
+            "group": "Campos personalizados",
             "pages": [
               "organizadores/criar-evento",
               "organizadores/publicar-evento"
@@ -74,7 +74,7 @@
             "icon": "backpack"
           },
           {
-            "group": "Cupons, promoções e descontos",
+            "group": "Cupons e descontos",
             "pages": [
               "organizadores/painel-de-controle",
               "organizadores/tipos-de-ingresso",
@@ -94,7 +94,7 @@
             "pages": []
           },
           {
-            "group": "Pedidos, participantes e vendas",
+            "group": "Pedidos e participantes",
             "icon": "user-round-check",
             "pages": [
               "participantes/atualizar-dados",
@@ -104,13 +104,22 @@
           {
             "group": "Cancelamentos e reembolsos",
             "icon": "banknote-x",
-            "pages": [
-              {
-                "group": "Check-in e credenciamento",
-                "icon": "qr-code",
-                "pages": []
-              }
-            ]
+            "pages": []
+          },
+          {
+            "group": "Check-in e credenciamento",
+            "icon": "qr-code",
+            "pages": []
+          },
+          {
+            "group": "Permissões e colaboradores",
+            "icon": "users",
+            "pages": []
+          },
+          {
+            "group": "Financeiro e repasses",
+            "icon": "hand-coins",
+            "pages": []
           }
         ]
       },
