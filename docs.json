@@ -94,42 +94,58 @@
       {
         "group": "Colaboradores e permissões",
         "icon": "users",
-        "pages": []
+        "pages": [
+          "colaboradores-do-evento"
+        ]
       },
       {
         "group": "Financeiro",
         "icon": "wallet-minimal",
-        "pages": []
+        "pages": [
+          "saldo-do-evento"
+        ]
       },
       {
         "group": "Relatórios e dados",
         "icon": "chart-line",
-        "pages": []
+        "pages": [
+          "relatorio-de-vendas"
+        ]
       },
       {
         "group": "Certificados",
         "icon": "award",
-        "pages": []
+        "pages": [
+          "criacao-de-certificado"
+        ]
       },
       {
         "group": "Integrações",
         "icon": "unplug",
-        "pages": []
+        "pages": [
+          "visao-geral-das-integracoes"
+        ]
       },
       {
         "group": "Promotores e afiliados",
         "icon": "megaphone",
-        "pages": []
+        "pages": [
+          "entendendo-o-programa"
+        ]
       },
       {
         "group": "Políticas e segurança",
         "icon": "brick-wall-shield",
-        "pages": []
+        "pages": [
+          "publicacao-de-eventos"
+        ]
       },
       {
         "group": "Problemas frequentes",
         "icon": "message-circle-question-mark",
-        "pages": []
+        "pages": [
+          "acesso-a-conta"
+        ]
       }
     ]
   },
