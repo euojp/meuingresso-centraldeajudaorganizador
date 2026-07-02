@@ -32,10 +32,16 @@
         "tab": "Para Participantes",
         "groups": [
           {
+            "group": "Introdução",
+            "icon": "rocket",
+            "pages": [
+              "introducao"
+            ]
+          },
+          {
             "group": "Primeiros Passos",
             "pages": [
               "organizadores/visao-geral",
-              "introducao",
               "participantes/criar-conta",
               "participantes/como-comprar-ingresso"
             ]
