@@ -135,25 +135,11 @@
             "group": "Políticas e segurança",
             "icon": "brick-wall-shield",
             "pages": []
-          }
-        ]
-      },
-      {
-        "tab": "Programa de Promotores",
-        "groups": [
-          {
-            "group": "Como Funciona",
-            "pages": [
-              "promotores/como-funciona",
-              "promotores/links-e-comissoes"
-            ]
           },
           {
-            "group": "Ganhos & Saques",
-            "pages": [
-              "promotores/acompanhar-comissoes",
-              "promotores/saques-pix"
-            ]
+            "group": "Problemas frequentes",
+            "icon": "message-circle-question-mark",
+            "pages": []
           }
         ]
       }
