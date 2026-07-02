@@ -47,7 +47,7 @@
             "icon": "binoculars"
           },
           {
-            "group": "Publicar eventos",
+            "group": "Eventos",
             "pages": [
               "participantes/encontrar-ingressos",
               "participantes/transferir-ingresso",
@@ -66,12 +66,20 @@
             "icon": "ticket"
           },
           {
-            "group": "Campos personalizados",
+            "group": "Vendas e pagamento",
             "pages": [
               "organizadores/criar-evento",
               "organizadores/publicar-evento"
             ],
-            "icon": "backpack"
+            "icon": "credit-card"
+          },
+          {
+            "group": "Pedidos e participantes",
+            "icon": "user-round-check",
+            "pages": [
+              "participantes/atualizar-dados",
+              "participantes/redefinir-senha"
+            ]
           },
           {
             "group": "Cupons e descontos",
@@ -84,26 +92,8 @@
             "icon": "badge-percent"
           },
           {
-            "group": "Marketing e vendas",
+            "group": "Marketing e divulgação",
             "icon": "rocket",
-            "pages": []
-          },
-          {
-            "group": "Checkout e pagamento",
-            "icon": "credit-card",
-            "pages": []
-          },
-          {
-            "group": "Pedidos e participantes",
-            "icon": "user-round-check",
-            "pages": [
-              "participantes/atualizar-dados",
-              "participantes/redefinir-senha"
-            ]
-          },
-          {
-            "group": "Cancelamentos e reembolsos",
-            "icon": "banknote-x",
             "pages": []
           },
           {
@@ -112,13 +102,23 @@
             "pages": []
           },
           {
-            "group": "Permissões e colaboradores",
+            "group": "Colaboradores e permissões",
             "icon": "users",
             "pages": []
           },
           {
-            "group": "Financeiro e repasses",
+            "group": "Financeiro",
             "icon": "hand-coins",
+            "pages": []
+          },
+          {
+            "group": "Checkout e pagamento",
+            "icon": "credit-card",
+            "pages": []
+          },
+          {
+            "group": "Cancelamentos e reembolsos",
+            "icon": "banknote-x",
             "pages": []
           },
           {
@@ -127,13 +127,13 @@
             "pages": []
           },
           {
-            "group": "Comunicação com participantes",
-            "icon": "send",
+            "group": "Certificados",
+            "icon": "award",
             "pages": []
           },
           {
-            "group": "Certificados",
-            "icon": "award",
+            "group": "Comunicação com participantes",
+            "icon": "send",
             "pages": []
           }
         ]
