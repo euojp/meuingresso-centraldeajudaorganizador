@@ -155,6 +155,7 @@
       {
         "tab": "Atualizações",
         "pages": [
+          "sistema-web-site",
           "app"
         ]
       }
