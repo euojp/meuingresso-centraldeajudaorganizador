@@ -54,7 +54,8 @@
             "pages": [
               "criar-evento",
               "configurar-evento",
-              "pagina-do-evento"
+              "pagina-do-evento",
+              "encerramento-ou-remocao"
             ]
           },
           {
