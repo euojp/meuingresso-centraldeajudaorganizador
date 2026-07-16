@@ -39,13 +39,15 @@
             ]
           },
           {
-            "group": "Primeiros Passos",
+            "group": "Primeiros passos",
             "icon": "binoculars",
             "pages": [
               "criar-conta",
               "acessando-o-painel",
               "dados-da-conta",
-              "dados-fiscais"
+              "dados-fiscais",
+              "primeiro-evento-na-meu-ingresso",
+              "suporte-e-atendimento"
             ]
           },
           {
@@ -65,14 +67,19 @@
               "criar-ingresso",
               "tipos-de-ingresso",
               "lotes-e-disponibilidade",
-              "cortesias"
+              "cortesias",
+              "configuracoes-avancadas"
             ]
           },
           {
-            "group": "Vendas e pagamento",
+            "group": "Vendas e pagamentos",
             "icon": "credit-card",
             "pages": [
-              "checkout"
+              "checkout",
+              "pix",
+              "cartao-de-credito",
+              "taxa-de-servico",
+              "experiencia-de-compra-do-participante"
             ]
           },
           {
@@ -80,77 +87,148 @@
             "icon": "user-round-check",
             "pages": [
               "lista-de-participantes",
-              "pedido-do-participante"
+              "pedido-do-participante",
+              "pedidos",
+              "status-de-pedidos",
+              "reenvio-de-ingresso",
+              "cancelamentos-pelo-painel",
+              "dados-dos-participantes",
+              "exportacao-de-participantes"
             ]
           },
           {
             "group": "Marketing e divulgação",
             "icon": "rocket",
             "pages": [
-              "link-do-evento"
+              "link-do-evento",
+              "cupons-de-desconto",
+              "boost-de-vendas",
+              "conversao-da-pagina-do-evento"
             ]
           },
           {
             "group": "Check-in e credenciamento",
             "icon": "qr-code",
             "pages": [
-              "acesso-ao-check-in"
+              "acesso-ao-check-in",
+              "validacao-por-qr-code",
+              "busca-manual-de-participantes",
+              "desfazer-check-in",
+              "controle-de-entrada",
+              "modo-credenciamento",
+              "equipamentos-e-leitores",
+              "impressao-de-etiquetas",
+              "operacao-de-credenciamento-meu-ingresso",
+              "boas-praticas-no-dia-do-evento"
             ]
           },
           {
             "group": "Colaboradores e permissões",
             "icon": "users",
             "pages": [
-              "colaboradores-do-evento"
+              "colaboradores-do-evento",
+              "convites-de-equipe",
+              "perfis-de-acesso",
+              "permissoes-de-check-in",
+              "remocao-de-colaboradores",
+              "seguranca-de-acesso"
             ]
           },
           {
             "group": "Financeiro",
             "icon": "wallet-minimal",
             "pages": [
-              "saldo-do-evento"
+              "saldo-do-evento",
+              "valores-a-receber",
+              "repasses",
+              "antecipacao",
+              "dados-bancarios-e-pix",
+              "comprovantes",
+              "valor-bruto-taxa-e-valor-liquido",
+              "duvidas-comuns"
             ]
           },
           {
             "group": "Relatórios e dados",
             "icon": "chart-line",
             "pages": [
-              "relatorio-de-vendas"
+              "relatorio-de-vendas",
+              "relatorio-de-participantes",
+              "relatorio-de-check-in",
+              "relatorio-financeiro",
+              "exportacoes",
+              "analise-de-desempenho"
             ]
           },
           {
             "group": "Certificados",
             "icon": "award",
             "pages": [
-              "criacao-de-certificado"
+              "criacao-de-certificado",
+              "personalizacao-do-modelo",
+              "variaveis-automaticas",
+              "elegibilidade-dos-participantes",
+              "envio-de-certificados",
+              "reenvio-de-certificados",
+              "acompanhamento-de-envio"
             ]
           },
           {
             "group": "Integrações",
             "icon": "unplug",
             "pages": [
-              "visao-geral-das-integracoes"
+              "visao-geral-das-integracoes",
+              "webhooks",
+              "eventos-disponiveis-nos-webhooks",
+              "integracoes-com-make-e-zapier",
+              "pixel-da-meta",
+              "google-pixel-google-ads",
+              "dados-e-automacoes",
+              "integracoes-personalizadas"
             ]
           },
           {
             "group": "Promotores e afiliados",
             "icon": "megaphone",
             "pages": [
-              "entendendo-o-programa"
+              "entendendo-o-programa",
+              "cadastro-de-promotores",
+              "aprovacao-de-promotores",
+              "links-de-venda",
+              "comissoes",
+              "relatorios-por-promotor",
+              "carteira-do-promotor",
+              "pagamento-de-comissoes"
             ]
           },
           {
             "group": "Políticas e segurança",
             "icon": "brick-wall-shield",
             "pages": [
-              "publicacao-de-eventos"
+              "publicacao-de-eventos",
+              "eventos-nao-permitidos",
+              "responsabilidades-do-organizador",
+              "responsabilidades-da-meu-ingresso",
+              "cancelamentos-e-reembolsos",
+              "privacidade-e-dados",
+              "seguranca-da-conta",
+              "prevencao-contra-fraudes"
             ]
           },
           {
             "group": "Problemas frequentes",
             "icon": "message-circle-question-mark",
             "pages": [
-              "acesso-a-conta"
+              "acesso-a-conta",
+              "evento-nao-publicado",
+              "ingresso-nao-aparece-na-venda",
+              "problemas-com-pagamento",
+              "problemas-com-participantes",
+              "problemas-com-cupom",
+              "problemas-no-check-in",
+              "problemas-com-relatorios",
+              "problemas-financeiros",
+              "instabilidade-no-dia-do-evento"
             ]
           }
         ]
